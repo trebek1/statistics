@@ -1,6 +1,5 @@
 import React from "react";
-import Input from '@material-ui/core/Input';
-import Grid from '@material-ui/core/Grid';
+import {Input, Grid} from '@material-ui/core'
 
 
 const CustomInput = ({ label, text, type, id, value, handleChange }) => (
